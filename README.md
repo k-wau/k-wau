@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaketomcko
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning French
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jtomcko@gmail.com
+- 💞️ why are there heaart emojis
+- 📫 mail
 
 <!---
 jaketomcko/jaketomcko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
