@@ -9,8 +9,8 @@
      tu___b)___b)                        >(=) fish for code cat
                                  
         i usually just make whatever        
-      comes to mind but i wanna be active        
-             on here way more bc its fun
+      comes to mind but i wanna be active
+        on here way more bc its fun
 ```
 
 <!---
