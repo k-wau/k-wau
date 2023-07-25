@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jaketomcko
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning French
-- 💞️ why are there heaart emojis
-- 📫 mail
+# kwau the goat
+i dont take this page too seriously but i hope something in here is somewhat ineteresting to u
+
+stream kwau
 
 <!---
 jaketomcko/jaketomcko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
