@@ -1,5 +1,5 @@
 ```
-### k-wau(the goat)'s github ###
+### k-wau's github ###
 
           /\__/\         this is my code cat
          =  - .- =      i just made him im like 2 minutes       
